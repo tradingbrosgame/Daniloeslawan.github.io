@@ -8,9 +8,11 @@ tradingpass
 beercap
 playahat
 romanhat
+bluewintercap
 jokerhat
 fuuu
 foreveralone
+autumnwings
 cerealguy
 fuckyeah
 gunman
@@ -91,6 +93,7 @@ zombieeyes
 zombiemouth
 zombieclaws
 longhair
+fireskin
 moneycap
 mangaeyes
 neonskin
